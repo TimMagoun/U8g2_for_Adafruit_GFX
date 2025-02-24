@@ -2169,6 +2169,9 @@ extern const uint8_t u8g2_font_wqy16_t_gb2312b[] U8G2_FONT_SECTION("u8g2_font_wq
 
 /* end font list */
 
+/* custom fonts */
+extern const uint8_t ibmplexmono_24[4693] U8G2_FONT_SECTION("ibmplexmono_24");
+/* end custom fonts */
 
 #endif /* U8g2_for_Adafruit_GFX_h */
 
